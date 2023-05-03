@@ -1,3 +1,10 @@
+Original developer : Fumihiro Kano
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7890386.svg)](https://doi.org/10.5281/zenodo.7890386)
+
+
+
 # head_orientation_calibration_app
 
 Reconstruct 3D object from 2D images (structure from motion).
